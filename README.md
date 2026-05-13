@@ -1,7 +1,7 @@
 # Streaming Web Service
 
 ## Overview
-유튜브와 유사한 영상 스트리밍 웹 서비스를 1인으로 개발한 프로젝트입니다.
+유튜브와 유사한 음악/영상 웹 스트리밍 서비스를 1인으로 개발한 프로젝트입니다.
 
 ## Role
 - 전체 개발 (Frontend + Backend 100%)
